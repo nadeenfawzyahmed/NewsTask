@@ -1,0 +1,14 @@
+.country{
+    background-color: darkblue;
+    z-index: 1;
+    display: flex;
+    flex-direction: row;
+}
+.modal-container{
+    background-color: lightgrey;
+    display: flex;
+    flex-direction: row;
+    
+    
+  
+}
